@@ -1,0 +1,19 @@
+nav=menu ler için kullanılır
+section=divin altındaki parçalardır
+dipslay fex=yanyana dizer
+justify-content:space-between:sağlı sollu atar 
+padding ile çerçeve boşlugu
+align-items.center=yukardan asağı ortalar
+displax:flex=yanyana dizer
+list-style:none liste işaretleri kaybolur
+gap:5px boşluk bırakır
+style="cursor:pointer" = üzerine gelince el işareti çıkartır
+li:hover{ // üzerine geldiğinde 
+    background-color:black
+    color:white
+} 
+margin-top:10px: ustten boşluk bırakır
+text-align:center  ortalar
+border-bottom:1px solid çizgi çizer
+justify-content:space-arround rastgele dağıtır
+border-radius:10px çerçeve yuvarlaklaşırır
